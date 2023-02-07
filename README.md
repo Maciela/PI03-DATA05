@@ -9,4 +9,4 @@ De este análisis se tomaron las tablas que se consideraron pertinentes para el 
 "Comparar accesos a los diferentes tipos de tecnologías de Internet"<br>
 "Comparar ingresos, en pesos, de cada tecnología de Internet"<br>
 "Comparar los ingresos anuales de los diferentes servicios de telecomunicaciones"<br>
-Estos KPis fueron estudiados en el Dasboard.
+Estos KPis fueron estudiados en el dashboard.
