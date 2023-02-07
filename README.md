@@ -1,6 +1,6 @@
-**PROYECTO INDIVIDUAL Nº3 : Data Analytics**
-El proyecto tenía por objetivo que nos situaramos en el rol de un analista de datos.
+*PROYECTO INDIVIDUAL Nº3 : Data Analytics*
 
+El proyecto tenía por objetivo que nos situaramos en el rol de un analista de datos.
 Para ello se nos encomendó la tarea del análisis de los diferentes servicios de telecomunicaciones.
 Los datos fueron tomados de ENAMCOM (https://datosabiertos.enacom.gob.ar/home).
 Inicialmente se realizó un análisis exploratorio de los datos(EDA) de las tablas correspondientes al servicio de internet, luego se analizaron los datos de ingresos del servicio de telefonía fija y de telefonía movil.
